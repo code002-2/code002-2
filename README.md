@@ -21,7 +21,3 @@
   </a>
   <img src="https://img.shields.io/badge/QQ-2836640056-12B7F5?style=for-the-badge&logo=message&logoColor=white"/>
 </p>
-
-<div align="center">
-  <sub>Linux on a device designed for Android — my favourite kind of problem.</sub>
-</div>
