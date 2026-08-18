@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Linux on Qualcomm Snapdragon</b> · <b>Mainline Linux on post-market devices</b> · <b>Armbian board maintainer</b>
+  <b>Linux on Qualcomm Snapdragon</b> · <b>Mainline Linux on post-market devices</b> · <b>Board bring-up</b>
 </p>
 
 ---
@@ -8,10 +8,9 @@
 
 ### Hi there 👋
 
-I bring **mainline Linux to Qualcomm Snapdragon devices** and maintain **Armbian** support for the **Xiaomi Pad 6S Pro (sheng)**.
+I bring **mainline Linux to Qualcomm Snapdragon devices** that were built for Android.
 
-- 🌱 Currently: dual-boot tooling & images for sheng
-- 🎯 Board support merged into [Armbian](https://github.com/armbian) 26.08
+- 🌱 Currently: dual-boot tooling & images for the Xiaomi Pad 6S Pro (sheng)
 - 🛠 BSP · ABL boot chain · UFS/SM8550 · UCM audio · CI builds
 
 <br clear="both"/>
