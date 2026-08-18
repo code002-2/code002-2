@@ -1,17 +1,10 @@
-<p align="center">
-  <b>Linux on Qualcomm Snapdragon</b> · <b>Mainline Linux on post-market devices</b> · <b>Board bring-up</b>
-</p>
-
 ---
 
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code002-2&theme=transparent&hide_border=true&layout=compact" alt="Top languages" />
 
 ### Hi there 👋
 
-I bring **mainline Linux to Qualcomm Snapdragon devices** that were built for Android.
-
-- 🌱 Currently: dual-boot tooling & images for the Xiaomi Pad 6S Pro (sheng)
-- 🛠 BSP · ABL boot chain · UFS/SM8550 · UCM audio · CI builds
+-  There's nothing here
 
 <br clear="both"/>
 
