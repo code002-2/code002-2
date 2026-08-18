@@ -3,11 +3,8 @@
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code002-2&theme=transparent&hide_border=true&layout=compact" alt="Top languages" />
 
 ### Hi there 👋
-
 -  There's nothing here
-
 <br clear="both"/>
-
 ---
 
 ### 📫 Get in touch
